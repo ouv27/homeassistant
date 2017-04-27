@@ -1,0 +1,41 @@
+# Draveil
+- name: Home
+  latitude: 48.6826
+  longitude: 2.3973
+  radius: 50  
+  icon: mdi:home
+  
+# Ecole
+- name: School
+  latitude: 48.6838395
+  longitude: 2.4112019000000373
+  radius: 100  
+  icon: mdi:school
+    
+# Evry
+- name: WorkEvry
+  latitude: 48.6177106
+  longitude: 2.4268506 
+  radius: 150
+  icon: mdi:worker
+  
+# Issy
+- name: WorkIssy
+  latitude: 48.8328631
+  longitude: 2.269466599999987
+  radius: 50  
+  icon: mdi:worker
+  
+# Monthureux
+- name: Monthureux
+  latitude: 48.030346471623496
+  longitude: 5.9659222842310555
+  radius: 50  
+  icon: mdi:home
+  
+# Longpont
+- name: Longpont
+  latitude: 48.651632387941376
+  longitude: 2.2907354595372453
+  radius: 50  
+  icon: mdi:home
